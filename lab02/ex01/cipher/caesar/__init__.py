@@ -1,4 +1,4 @@
 from .alphabet import ALPHABET
-from .caesar_cipher import CaesarCipher
+from cipher.caesar.caesar_cipher import CaesarCipher
 
 
